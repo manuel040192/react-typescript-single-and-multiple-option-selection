@@ -8,7 +8,7 @@
 
 - "options: SelectOption[]" significa que se tiene una lista de opciones.
 
-- "value?: SelectOption" es opcional y se refiere a la opción seleccionada actualmente. ç
+- "value?: SelectOption" es opcional y se refiere a la opción seleccionada actualmente.
 
 - "... = useState<typeof options[0] | undefined>": Una variable de estado puede ser o una opción o el valor de undefined si aún no hemos puesto un valor.
 
