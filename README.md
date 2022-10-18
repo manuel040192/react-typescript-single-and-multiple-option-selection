@@ -14,6 +14,10 @@
 
 - "className={`${styles.options} ${isOpen ? styles.show : ""}`}>": Si isOpen es verdadero, podemos usar el estilo show, y si es falso, se usa un estilo vacío.
 
+- "type SelectOption" es una sola opción que tiene las propiedades tipadas label y value.
+
+- "SelectOption[]" es un array de diferentes opciones.
+
 **Highlighted information:**
 
 - "onChange: (value: SelectOption | undefined) => void": If we don't have a value it can be undefined, and this is a void function 
@@ -27,3 +31,7 @@ that returns nothing.
 if we haven't set a value yet.
 
 - "className={`${styles.options} ${isOpen ? styles.show : ""}`}>": If isOpen is true, we can use the show style, otherwise just do an empty style.
+
+- "type SelectOption" is a single option that has the typed properties label and value.
+
+- "SelectOption[]" is an array of different options.
