@@ -16,7 +16,7 @@
 
 - "type SelectOption" es una sola opción que tiene las propiedades tipadas label y value.
 
-- "SelectOption[]" es un array de diferentes opciones.
+- "SelectOption[]" es un array de opciones.
 
 **Highlighted information:**
 
@@ -34,4 +34,4 @@ if we haven't set a value yet.
 
 - "type SelectOption" is a single option that has the typed properties label and value.
 
-- "SelectOption[]" is an array of different options.
+- "SelectOption[]" is an array of options.
