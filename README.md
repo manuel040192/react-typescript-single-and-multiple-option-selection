@@ -1,6 +1,6 @@
 ﻿# react-typescript-single-and-multiple-option-selection
  
- https://634c24116fb7461274818c1d--bespoke-strudel-4aaf9c.netlify.app/
+https://bespoke-strudel-4aaf9c.netlify.app/
 
 **Información destacada:**
 
